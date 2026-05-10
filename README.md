@@ -175,9 +175,7 @@ Soy un desarrollador **apasionado** por crear **bots interactivos** y **automaci
 [![API](https://img.shields.io/badge/API-YoSoyYo-blue?style=for-the-badge&logo=globe&logoColor=white&labelColor=1a1a1a)](https://yosoyyo-api-ofc.onrender.com)
 ```
 
-</div>
 
----
 
 ## 📞 INFORMACIÓN DE CONTACTO
 
