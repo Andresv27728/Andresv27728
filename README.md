@@ -179,7 +179,6 @@ Soy un desarrollador **apasionado** por crear **bots interactivos** y **automaci
 
 ## 📞 INFORMACIÓN DE CONTACTO
 
-<div align="center">
 
 ```
 ╔════════════════════════════════════════════════════════════╗
