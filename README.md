@@ -75,35 +75,6 @@ Soy un desarrollador apasionado por crear **bots interactivos** y **automaciones
 
 ---
 
-## 📈 MIS ESTADÍSTICAS
-
-<div align="center">
-
-### 🐍 ANIMACIÓN DE SERPIENTE (ASCII)
-```
-🟩 ► ─────────────────────── 87%
-🟩 ► ──────────────────────── 92%
-🟩 ► ────────────────────── 85%
-🟩 ► ──────────────────────── 90%
-🟩 ► ────────────────────── 88%
-```
-
-### 📊 ESTADÍSTICAS DE GITHUB
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andresv27728&show_icons=true&theme=radical&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00FF00&icon_color=00FF00&text_color=ffffff&count_private=true)
-
-### 💻 LENGUAJES MÁS USADOS
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andresv27728&layout=compact&theme=radical&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00FF00&text_color=ffffff)
-
-### 🔥 RACHA DE CONTRIBUCIONES
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Andresv27728&theme=radical&hide_border=true&border_radius=10&background=0d1117&stroke=00FF00&ring=00FF00&fire=FF6B00&currStreakLabel=00FF00)
-
-</div>
-
----
-
 ## 🛠️ TECNOLOGÍAS & HERRAMIENTAS
 
 <div align="center">
@@ -138,26 +109,6 @@ Soy un desarrollador apasionado por crear **bots interactivos** y **automaciones
 |:-:|:-:|:-:|:-:|
 | Crear bots que facilitan la vida | Combinar código con diseño | Explorar nuevas tecnologías | Compartir conocimiento |
 | ⚡ Eficiente | ✨ Innovador | 🧠 Curioso | 👥 Colaborador |
-
-</div>
-
----
-
-## 🎮 ESTADÍSTICAS PERSONALES
-
-<div align="center">
-
-```
-╔════════════════════════════════════════════════╗
-║  📊 ACTIVIDAD Y ESTADÍSTICAS GENERALES         ║
-╠════════════════════════════════════════════════╣
-║  🐍 Experiencia en Bots:          ████████░░ 80%
-║  🔧 Manejo de APIs:               █████████░ 90%
-║  💡 Creatividad en Proyectos:     █████████░ 95%
-║  🚀 Velocidad de Desarrollo:      ████████░░ 85%
-║  📚 Actualización Tecnológica:    ████████░░ 88%
-╚════════════════════════════════════════════════╝
-```
 
 </div>
 
@@ -254,8 +205,6 @@ Soy un desarrollador apasionado por crear **bots interactivos** y **automaciones
 ```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Andresv27728&color=00ff00&style=flat-square&label=VISITAS)
-
-![Snake Animation](https://github.com/Andresv27728/Andresv27728/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
