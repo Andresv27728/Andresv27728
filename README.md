@@ -19,200 +19,227 @@
 
 ---
 
-## 👤 SOBRE MÍ
+## 👤 SOBRE MÍ 🎯
 
 <div align="center">
 
 ```javascript
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║  const YoSoyYo = {                                       ║
-║    nombre: "Yo soy Yo",                                 ║
-║    profesión: "Bot Developer & API Creator",            ║
-║    especialidad: "WhatsApp Bots con JavaScript",        ║
-║    pasión: "Automatización y Creatividad",              ║
-║    status: "🟢 Activo y Creando",                        ║
-║    poder: "⚡ Transformar ideas en código"               ║
-║  }                                                       ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+⭐  const YoSoyYo = {                         ⭐
+⭐    🎮 nombre: "Yo soy Yo",                 ⭐
+⭐    💼 profesión: "Bot Developer",          ⭐
+⭐    🔧 especialidad: "WhatsApp Bots",      ⭐
+⭐    💡 pasión: "Automatización",            ⭐
+⭐    🟢 status: "Activo y Creando",          ⭐
+⭐    ⚡ poder: "Transformar ideas",          ⭐
+⭐  }                                         ⭐
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 ```
 
 </div>
 
-Soy un desarrollador **apasionado** por crear **bots interactivos** y **automaciones** en WhatsApp usando JavaScript y Node.js. Me encanta combinar código con creatividad para construir experiencias funcionales y entretenidas. 🎪
+Soy un desarrollador **apasionado** 💻 por crear **bots interactivos** 🤖 y **automaciones** ⚙️ en WhatsApp usando JavaScript y Node.js. Me encanta combinar código con creatividad para construir experiencias funcionales y entretenidas. 🎪
 
 ---
 
-## 🎯 MIS PROYECTOS PRINCIPALES
+## 🎯 MIS PROYECTOS PRINCIPALES 🚀
 
 <div align="center">
 
 ### 🎪 SENKU ICHIGAMI BOT
 ```
-╔═════════════════════════════════════╗
-║  🎪 BOT INTERACTIVO PERSONALIZADO  ║
-╠═════════════════════════════════════╣
-║  ⚡ Respuestas Inteligentes         ║
-║  🎨 Interfaz Amigable              ║
-║  🔧 Fácil de Extender              ║
-║  💬 Conversaciones Naturales        ║
-╚═════════════════════════════════════╝
+🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨
+🎨  🎪 BOT INTERACTIVO PERSONALIZADO  🎨
+🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨
+🎨  ⚡ Respuestas Inteligentes         🎨
+🎨  🎨 Interfaz Amigable              🎨
+🎨  🔧 Fácil de Extender              🎨
+🎨  💬 Conversaciones Naturales        🎨
+🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨
 ```
 
 ### 🧜‍♀️ GAWR GURA BOT
 ```
-╔═════════════════════════════════════╗
-║  🧜‍♀️ BOT TEMÁTICO ENTRETENIDO      ║
-╠═════════════════════════════════════╣
-║  🎵 Respuestas Divertidas          ║
-║  🎮 Comandos Especiales            ║
-║  🌊 Interacciones Únicas           ║
-║  ✨ Experiencia Premium            ║
-╚═════════════════════════════════════╝
+🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊
+🌊  🧜‍♀️ BOT TEMÁTICO ENTRETENIDO  🌊
+🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊
+🌊  🎵 Respuestas Divertidas          🌊
+🌊  🎮 Comandos Especiales            🌊
+🌊  🌊 Interacciones Únicas           🌊
+🌊  ✨ Experiencia Premium            🌊
+🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊
 ```
 
 ### 🔌 YOSOYYO API
 ```
-╔═════════════════════════════════════╗
-║  🔌 API RÁPIDA & CONFIABLE          ║
-╠═════════════════════════════════════╣
-║  🌐 yosoyyo-api-ofc.onrender.com   ║
-║  ⚡ Endpoints Optimizados          ║
-║  📊 Estadísticas en Tiempo Real    ║
-║  🚀 Alto Rendimiento               ║
-╚═════════════════════════════════════╝
+💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻
+💻  🔌 API RÁPIDA & CONFIABLE  💻
+💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻
+💻  🌐 yosoyyo-api-ofc.onrender.com 💻
+💻  ⚡ Endpoints Optimizados          💻
+💻  📊 Estadísticas en Tiempo Real   💻
+💻  🚀 Alto Rendimiento              💻
+💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻
 ```
 
 </div>
 
 ---
 
-## ⭐ DECORACIÓN ESPECIAL
+## ⭐ DECORACIÓN ESPECIAL ✨
 
 <div align="center">
 
 ```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║   ✨ ★ ◇ ★ ◇ ★ ◇ ★ ◇ ★ ◇ ★ ◇ ★ ◇ ★ ◇ ★ ◇ ★ ◇ ★ ◇ ✨    ║
-║                                                            ║
-║          🚀 BIENVENIDO AL MUNDO DE LOS BOTS 🚀            ║
-║                                                            ║
-║   ✨ ★ ◇ ★ ◇ ★ ◇ ★ ◇ ★ ◇ ★ ◇ ★ ◇ ★ ◇ ★ ◇ ★ ◇ ★ ◇ ✨    ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
+✨💫🌟⭐✨💫🌟⭐✨💫🌟⭐✨💫🌟⭐
+🚀 BIENVENIDO AL MUNDO DE LOS BOTS 🚀
+✨💫🌟⭐✨💫🌟⭐✨💫🌟⭐✨💫🌟⭐
 ```
 
 </div>
 
 ---
 
-## 🛠️ TECNOLOGÍAS & HERRAMIENTAS
+## 🛠️ TECNOLOGÍAS & HERRAMIENTAS 💪
 
 <div align="center">
 
 ### 💻 LENGUAJES
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1a1a1a)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1a1a1a)
+![JavaScript](https://img.shields.io/badge/💛%20JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1a1a1a)
+![Node.js](https://img.shields.io/badge/🟢%20Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1a1a1a)
 
 ### 🌐 WEB & API
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white&labelColor=1a1a1a)
-![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=flat-square&logo=api&logoColor=white&labelColor=1a1a1a)
+![Express](https://img.shields.io/badge/⚡%20Express-000000?style=flat-square&logo=express&logoColor=white&labelColor=1a1a1a)
+![REST API](https://img.shields.io/badge/🔌%20REST_API-FF6B6B?style=flat-square&logo=api&logoColor=white&labelColor=1a1a1a)
 
 ### 💾 BASES DE DATOS
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=1a1a1a)
+![MongoDB](https://img.shields.io/badge/🍃%20MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=1a1a1a)
 
 ### 🤖 INTEGRACIONES
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=1a1a1a)
+![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=1a1a1a)
 
 ### 🛠️ HERRAMIENTAS
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=1a1a1a)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a)
+![Git](https://img.shields.io/badge/🔀%20Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=1a1a1a)
+![GitHub](https://img.shields.io/badge/🐙%20GitHub-000000?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a)
 
 </div>
 
 ---
 
-## 💡 LO QUE ME APASIONA
+## 💡 LO QUE ME APASIONA 🔥
 
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────┐
-│  🤖 AUTOMATIZACIÓN                                        │
-│  └─ Crear bots que facilitan la vida                    │
-│                                                           │
-│  🎨 CREATIVIDAD                                          │
-│  └─ Combinar código con diseño                          │
-│                                                           │
-│  📚 APRENDIZAJE                                          │
-│  └─ Explorar nuevas tecnologías                         │
-│                                                           │
-│  🌐 COMUNIDAD                                            │
-│  └─ Compartir conocimiento y ayudar                     │
-└──────────────────────────────────────────────────────────┘
-```
+🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖
+🤖  🤖 AUTOMATIZACIÓN        🤖
+🤖  └─ 💡 Crear bots        🤖
+🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖
 
-</div>
+🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨
+🎨  🎨 CREATIVIDAD          🎨
+🎨  └─ ✨ Combinar código   🎨
+🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨🎨
 
----
+📚📚📚📚📚📚📚📚📚📚📚📚
+📚  📚 APRENDIZAJE          📚
+📚  └─ 🧠 Explorar tech    📚
+📚📚📚📚📚📚📚📚📚📚📚📚
 
----
-
-## 📫 CONECTA CONMIGO
-
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════════════╗
-║           📞 FORMAS DE CONTACTARME 📞                     ║
-╠════════════════════════════════════════════════════════════╣
-```
-
-[![GitHub](https://img.shields.io/badge/GitHub-Andresv27728-black?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/Andresv27728)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-573133374132-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a1a)](https://wa.me/573133374132)
-[![API](https://img.shields.io/badge/API-YoSoyYo-blue?style=for-the-badge&logo=globe&logoColor=white&labelColor=1a1a1a)](https://yosoyyo-api-ofc.onrender.com)
-```
-
-
-
-## 📞 INFORMACIÓN DE CONTACTO
-
-
-```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║  🌐 GitHub:        github.com/Andresv27728               ║
-║  📱 WhatsApp:      +57 313 337 4132                       ║
-║  🔌 API:           yosoyyo-api-ofc.onrender.com          ║
-║  💬 Status:        🟢 Disponible para Colaboraciones     ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
+🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐
+🌐  🌐 COMUNIDAD           🌐
+🌐  └─ 👥 Compartir       🌐
+🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐
 ```
 
 </div>
 
 ---
 
-## 🎮 MI FILOSOFIA
+## 🌟 REPOSITORIOS DESTACADOS 🏆
 
 <div align="center">
 
 ```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║    ╔═══════════════════════════════════════════════════╗  ║
-║    ║                                                   ║  ║
-║    ║  "El código es arte, el arte es código"          ║  ║
-║    ║                                                   ║  ║
-║    ║         - Yo soy Yo 🎮                           ║  ║
-║    ║                                                   ║  ║
-║    ║  ⚡ Transformar ideas en realidad digital ⚡      ║  ║
-║    ║                                                   ║  ║
-║    ╚═══════════════════════════════════════════════════╝  ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
+🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆
+🏆  ⭐ TOP PROYECTOS ⭐    🏆
+🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆
+
+🏆  📦 Senku Ichigami Bot [★★★★★] 🏆
+🏆  🎪 Gawr Gura Bot      [★★★★★] 🏆
+🏆  🔌 YoSoyYo API        [★★★★★] 🏆
+
+🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆
+```
+
+</div>
+
+---
+
+## 📫 CONECTA CONMIGO 🌐
+
+<div align="center">
+
+```
+📞📞📞📞📞📞📞📞📞📞📞📞
+📞  FORMAS DE CONTACTARME   📞
+📞📞📞📞📞📞📞📞📞📞📞📞
+```
+
+[![GitHub](https://img.shields.io/badge/🐙%20GitHub-Andresv27728-black?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/Andresv27728)
+[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-573133374132-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a1a)](https://wa.me/573133374132)
+[![API](https://img.shields.io/badge/🔌%20API-YoSoyYo-blue?style=for-the-badge&logo=globe&logoColor=white&labelColor=1a1a1a)](https://yosoyyo-api-ofc.onrender.com)
+
+```
+📞📞📞📞📞📞📞📞📞📞📞📞
+```
+
+</div>
+
+---
+
+## 📞 INFORMACIÓN DE CONTACTO 📱
+
+<div align="center">
+
+```
+💼💼💼💼💼💼💼💼💼💼💼💼
+💼  🌐 GitHub              💼
+💼     github.com/Andresv27728  💼
+💼                          💼
+💼  📱 WhatsApp             💼
+💼     +57 313 337 4132     💼
+💼                          💼
+💼  🔌 API                  💼
+💼     yosoyyo-api-ofc.onrender.com 💼
+💼                          💼
+💼  💬 Status: 🟢 Disponible 💼
+💼                          💼
+💼💼💼💼💼💼💼💼💼💼💼💼
+```
+
+</div>
+
+---
+
+## 🎮 MI FILOSOFIA 💭
+
+<div align="center">
+
+```
+💚💚💚💚💚💚💚💚💚💚💚💚
+💚                        💚
+💚  💡💡💡💡💡💡💡💡💡  💚
+💚  💡 "El código es arte" 💡  💚
+💚  💡 "El arte es código"  💡  💚
+💚  💡                    💡  💚
+💚  💡 - Yo soy Yo 🎮 -   💡  💚
+💚  💡                    💡  💚
+💚  💡 ⚡ Transformar ideas 💡  💚
+💚  💡 en realidad digital ⚡💡  💚
+💚  💡💡💡💡💡💡💡💡💡  💚
+💚                        💚
+💚💚💚💚💚💚💚💚💚💚💚💚
 ```
 
 </div>
@@ -222,15 +249,12 @@ Soy un desarrollador **apasionado** por crear **bots interactivos** y **automaci
 <div align="center">
 
 ```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║        ✨ ★ ◇ ★ ◇ ★ ◇ ★ GRACIAS POR VISITAR ★ ◇ ★ ✨   ║
-║                                                            ║
-║            Hecho con 💚 por Yo soy Yo 2026               ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+✨  🎉 GRACIAS POR VISITAR 🎉 ✨
+✨  Hecho con 💚 por Yo soy Yo ✨
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=Andresv27728&color=00ff00&style=flat-square&label=VISITAS)
+![Profile Views](https://komarev.com/ghpvc/?username=Andresv27728&color=00ff00&style=flat-square&label=👁️%20VISITAS)
 
 </div>
