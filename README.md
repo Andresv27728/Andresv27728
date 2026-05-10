@@ -137,41 +137,8 @@ Soy un desarrollador apasionado por crear **bots interactivos** y **automaciones
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Andresv27728-black?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/Andresv27728)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-573133374132-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a1a)](https://wa.me/573133374132)
 [![API](https://img.shields.io/badge/API-YoSoyYo-blue?style=for-the-badge&logo=globe&logoColor=white&labelColor=1a1a1a)](https://yosoyyo-api-ofc.onrender.com)
-
-</div>
-
----
-
-## 🎯 OBJETIVOS ACTUALES
-
-<div align="center">
-
-```
-🎯 METAS 2026
-├─ 🚀 Lanzar 3 nuevos bots
-├─ 📈 Mejorar APIs existentes
-├─ 🌐 Expandir comunidad
-├─ 📚 Documentación mejorada
-└─ ⭐ Contribuir más a Open Source
-```
-
-</div>
-
----
-
-## 🏆 LOGROS & RECONOCIMIENTOS
-
-<div align="center">
-
-```
-🎖️ HITOS ALCANZADOS
-├─ ✅ 50+ Proyectos Completados
-├─ ✅ 100+ Usuarios Satisfechos
-├─ ✅ 5+ Bots en Producción
-├─ ✅ 1 API en Renderizado
-└─ ✅ Comunidad en Crecimiento
-```
 
 </div>
 
@@ -182,8 +149,8 @@ Soy un desarrollador apasionado por crear **bots interactivos** y **automaciones
 <div align="center">
 
 ```
-📧 Email:    andrescamilovallejogomez701@gmail.com
 🌐 GitHub:   github.com/Andresv27728
+📱 WhatsApp: +57 313 337 4132
 🔌 API:      yosoyyo-api-ofc.onrender.com
 💬 Status:   🟢 Disponible para Colaboraciones
 ```
