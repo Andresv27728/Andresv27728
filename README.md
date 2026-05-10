@@ -158,24 +158,6 @@ Soy un desarrollador **apasionado** por crear **bots interactivos** y **automaci
 
 ---
 
-## 🌟 REPOSITORIOS DESTACADOS
-
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════════════╗
-║                  ⭐ TOP PROYECTOS ⭐                       ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║   📦 Senku Ichigami Bot              [★★★★★] ESPECIAL   ║
-║   🎪 Gawr Gura Bot                   [★★★★★] POPULAR    ║
-║   🔌 YoSoyYo API                     [★★★★★] PRODUCCIÓN ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
 ---
 
 ## 📫 CONECTA CONMIGO
@@ -186,13 +168,12 @@ Soy un desarrollador **apasionado** por crear **bots interactivos** y **automaci
 ╔════════════════════════════════════════════════════════════╗
 ║           📞 FORMAS DE CONTACTARME 📞                     ║
 ╠════════════════════════════════════════════════════════════╣
-```
 
 [![GitHub](https://img.shields.io/badge/GitHub-Andresv27728-black?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/Andresv27728)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-573133374132-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a1a)](https://wa.me/573133374132)
 [![API](https://img.shields.io/badge/API-YoSoyYo-blue?style=for-the-badge&logo=globe&logoColor=white&labelColor=1a1a1a)](https://yosoyyo-api-ofc.onrender.com)
 
-```
+
 ╚════════════════════════════════════════════════════════════╝
 ```
 
